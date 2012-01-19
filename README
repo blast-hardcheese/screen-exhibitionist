@@ -1,0 +1,4 @@
+Simple shell script to hardcopy from a shell into an HTML file (served by nc)
+
+Future additions:
+    If possible, figure out how to translate ANSI escape sequences into CSS.
